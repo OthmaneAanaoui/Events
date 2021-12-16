@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587285671770",
+    "project_id": "toulouse-events-dd641",
+    "storage_bucket": "toulouse-events-dd641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587285671770:android:7574d72e665eb39d200d63",
+        "android_client_info": {
+          "package_name": "com.tlsEvent.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587285671770-jtsnvif0ncg2cd1j8lv9u43icjsjr2re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfojGMt3mgUiddGHHoL27aaFy0_SucFUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587285671770-jtsnvif0ncg2cd1j8lv9u43icjsjr2re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
